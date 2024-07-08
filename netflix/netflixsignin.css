@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+   
+}
+nav{
+    
+    justify-content:space-between;
+    background-image:url(./netflixback.jpg);
+    height: 100vh;
+    width: 100%;
+    opacity: 10 ;
+    background-size: cover;
+    
+}
+#n-right>img{
+    margin-bottom:-4%;
+  
+    width:13%;  
+   margin-left:9rem;
+}
+#signin{
+    background-color: rgba(0, 0, 0, 0.788);
+    width: 35%;
+    height: 33rem;
+    margin-top: -39%;
+    margin-left: 31%;
+    border-radius: 4px;
+}
+h1{
+    margin-left:17%;
+    padding-top:8%;
+    color: white;
+}
+input{
+    margin-left:17%;
+    height:3rem;
+    width: 17rem;
+    padding-left: 12px;
+    background-color: transparent;
+    color: gray;
+    border: 1px solid gray;
+    border-radius: 4px;
+}
+button{
+    margin-left:17%;
+    height:2.5rem;
+    width: 18rem;
+    background-color: red;
+    color: white;
+    border-radius: 4px;
+    border: none;
+}
+h6{
+    color: gray;
+    font-size: medium;
+    margin-left: 47%;
+}
+h3{
+  color: white;
+  font-size: 1rem;
+  margin-left:17%;
+}
+h2{
+  color: white;
+  font-size:1rem;
+  margin-left:17%;
+}
+h4{
+    color: white;
+  font-size:1.3rem;
+  margin-left:17%;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size:1.3rem;
+}
+a:hover{
+    text-decoration: underline;
+    color: white;
+}
